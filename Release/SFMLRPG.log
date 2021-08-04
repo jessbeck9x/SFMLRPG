@@ -1,0 +1,17 @@
+﻿  AnimationComponent.cpp
+  Button.cpp
+  Entity.cpp
+  Game.cpp
+  GameState.cpp
+  main.cpp
+  MainMenuState.cpp
+D:\Projects\SFMLRPG\MainMenuState.cpp(89,20): warning C4834: discarding return value of function with 'nodiscard' attribute
+  MovementComponent.cpp
+  Player.cpp
+  State.cpp
+  Generating code
+  28 of 754 functions ( 3.7%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    3 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  SFMLRPG.vcxproj -> D:\Projects\SFMLRPG\Release\SFMLRPG.exe

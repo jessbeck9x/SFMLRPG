@@ -1,0 +1,13 @@
+﻿  AnimationComponent.cpp
+  Button.cpp
+  Entity.cpp
+  Game.cpp
+  GameState.cpp
+  main.cpp
+  MainMenuState.cpp
+D:\Projects\SFMLRPG\MainMenuState.cpp(89,20): warning C4834: discarding return value of function with 'nodiscard' attribute
+  MovementComponent.cpp
+  Player.cpp
+  State.cpp
+  Generating Code...
+  SFMLRPG.vcxproj -> D:\Projects\SFMLRPG\Debug\SFMLRPG.exe
